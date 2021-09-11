@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @baharuse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-baharuse/baharuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->mim sher✔
+pip install sys
+pip install random
+pip install os
+pip install pyfiglet
+pip install user_agent
+pip install time
+pip install requests
+cd /sdcard/Download
+ls
+python FB-tKaii.py
